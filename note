@@ -1,0 +1,7 @@
+RESULTS
+
+We did outlier detection by calculating z-score for each frame of video feed as statistical models are light-weight and in certain situations robust. We have used Raspberry Pi for this project as a computing processor with a camera module attached to it. The camera module we have used is xxx and thus during the first 30 seconds, we store the readings of EAR and MAR values of the driver's face and transform the data to normal distribution so that in case the driver yawns or blinks, it can be detected. In Fig.1 it shows the EAR normal distribution where z-score is near 4.25. So it is assumed that anything that is greater than calculated z-score (orange area) is outlier. In Fig.2, it follows the same procedure where z-score is calculated and outlier detection is performed.
+
+CONCLUSION
+
+Outlier detection is used in various situation like detecting unusual weather behaviour, finding trojans/worms/virus in Intrusion Detection System, detection of hazardeous gas in mines. For solutions to real life with IOT devices, it is essential to make use of light-weight and robust algorithm that can work at different environmental conditions. We have made a simple use of statistics to solve a concerning problem in today's busy life. We established the threshold value by calculating the z value for each frame.
