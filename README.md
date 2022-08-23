@@ -10,8 +10,8 @@ Drowsiness has been involved in about 10-40% of the accidents on roads. Fall-asl
 
 ## Methodology
 
-![Process](https://github.com/SarveshSridhar/RealTime-Drowsiness-Detection-using-Facial-Landmarks-and-Outlier-Detection/main/process.png?raw=true)
+![process](https://user-images.githubusercontent.com/68463271/186216205-a92fe01d-9281-48cd-85ac-318b2025db83.png)
 
 ## Output
 
-![Output](https://github.com/SarveshSridhar/RealTime-Drowsiness-Detection-using-Facial-Landmarks-and-Outlier-Detection/main/sarvesh.png)
+![sarvesh](https://user-images.githubusercontent.com/68463271/186216300-4f25bda1-45cf-447c-aaa0-b89026e41b40.png)
